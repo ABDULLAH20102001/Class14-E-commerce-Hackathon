@@ -52,7 +52,7 @@ export const Producttop = ({ name, url, price, description }: ProductProps) => {
             <div className='bg-[#ECD2FA59] w-[400] h-[410] rounded-[410] ml-11 absolute  z-0  ' />
             <div className='bg-[#ECD2FA59] w-[400] h-[410] rounded-[410] mt-[50] absolute   z-10 ' />
             <div className='   ml- mt-14  absolute z-20'>
-              <img src="icon/Armchair-Fabric 1.png" alt="" width={380} className='' />
+              <img src="icon/Armchair-Fabric 1.png" alt="" width={380}  className='' />
             </div>
             {/* <div className='bg-[#00C1FE] w-[100] h-[100] rounded-[410] ml-[300] mb-[300] z-30 m   ' /> */}
             <div className='bg-[#00C1FE] w-[100] h-[100] rounded-[410] ml-[300] mb-[300] z-30 m    '> <h2 className='flex justify-center mt-5 text-white text-2xl font-semibold text-center'>50% <br />off</h2></div>
