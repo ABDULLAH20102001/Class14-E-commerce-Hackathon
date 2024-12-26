@@ -3,34 +3,34 @@
 import localFont from "next/font/local";
 import "./globals.css";
 
-import Nave1 from "./components/Nave Botem/Nave1";
-import Botem from "./components/Nave Botem/Botem";
+// import Nave1 from "./components/Nave Botem/Nave1";
+// import Botem from "./components/Nave Botem/Botem";
 // import Product2 from "./components/Product/2Product";
 // import LeatestProducts from "./components/Product/LeatestProducts";
 
 
 // import Home from "./page";
-// import Home5 from "./components/Home/Home";
-import SelaiderHome from "./components/Home/SelaiderHome/page";
+// // import Home5 from "./components/Home/Home";
+// import SelaiderHome from "./components/Home/SelaiderHome/page";
 
-import SelaiderFeaturedProducts from "./components/Product/FeaturedProducts/page";
-import LeatestProducts from "./components/Product/LeatestProducts";
-import WhatShopexOffer from "./components/Product/WhatShopexOffer";
-import TrendingProducts from "./components/Trending Products2/Trending Products";
-import TrendingProductsHome from "./components/Trending Products2/Trending Products Home";
-import DiscountItemHome from "./components/Discount Item/Discount Item Home";
-import A123 from "./components/Discount Item/123";
-import LeatestBlogHome from "./components/Leatest Blog/Leatest Blog Home";
-import LeatestBlog from "./components/Leatest Blog/Leatest Blog";
-import ShopGridDefault from "./components/page1/page";
-import ShopList from "./components/page2/page";
-import ProductDetails from "./components/page3/Product Details";
-import Contact from "./ContactUs/page";
-import BlogB from "./components/Blog/blog-b";
-import Products from "./components/Products/page";
-import Gatin from "./components/GetInTouch/gat in to";
-import Signup from "./Signup/page";
-import Login from "./signup1/login1/page";
+// import SelaiderFeaturedProducts from "./components/Product/FeaturedProducts/page";
+// import LeatestProducts from "./components/Product/LeatestProducts";
+// import WhatShopexOffer from "./components/Product/WhatShopexOffer";
+// import TrendingProducts from "./components/Trending Products2/Trending Products";
+// import TrendingProductsHome from "./components/Trending Products2/Trending Products Home";
+// import DiscountItemHome from "./components/Discount Item/Discount Item Home";
+// import A123 from "./components/Discount Item/123";
+// import LeatestBlogHome from "./components/Leatest Blog/Leatest Blog Home";
+// import LeatestBlog from "./components/Leatest Blog/Leatest Blog";
+// import ShopGridDefault from "./components/page1/page";
+// import ShopList from "./components/page2/page";
+// import ProductDetails from "./components/page3/Product Details";
+// import Contact from "./ContactUs/page";
+// import BlogB from "./components/Blog/blog-b";
+// import Products from "./components/Products/page";
+// import Gatin from "./components/GetInTouch/gat in to";
+// import Signup from "./Signup/page";
+// import Login from "./signup1/login1/page";
 
 // import App1 from "./page1";
 // import As1 from "./page1";

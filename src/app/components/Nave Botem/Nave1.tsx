@@ -12,8 +12,8 @@ import { AiOutlineHeart } from "react-icons/ai";    //icons ❤
 import { LiaShoppingCartSolid } from "react-icons/lia";//icons 🛒
 import { CiSearch } from "react-icons/ci";             //icons search-bar
 import Link from 'next/link';
-import Signup from '@/app/Signup/page';
-import Login from '@/app/Signup/Login/page';
+// import Signup from '@/app/Signup/page';
+// import Login from '@/app/Signup/Login/page';
 
 
 

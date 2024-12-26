@@ -1,20 +1,20 @@
 
 'use client';
-import App from "next/app";
+// import App from "next/app";
 import A123 from "./components/Discount Item/123";
 import DiscountItemHome from "./components/Discount Item/Discount Item Home";
 import SelaiderHome from "./components/Home/SelaiderHome/page";
 import LeatestBlog from "./components/Leatest Blog/Leatest Blog";
 import LeatestBlogHome from "./components/Leatest Blog/Leatest Blog Home";
-import Botem from "./components/Nave Botem/Botem";
+// import Botem from "./components/Nave Botem/Botem";
 import Nave1 from "./components/Nave Botem/Nave1";
-import ShopList from "./components/page2/page";
+// import ShopList from "./components/page2/page";
 import SelaiderFeaturedProducts from "./components/Product/FeaturedProducts/page";
 import LeatestProducts from "./components/Product/LeatestProducts";
 import WhatShopexOffer from "./components/Product/WhatShopexOffer";
 import TrendingProducts from "./components/Trending Products2/Trending Products";
 import TrendingProductsHome from "./components/Trending Products2/Trending Products Home";
-import ShopGridDefault from "./page1/page";
+// import ShopGridDefault from "./page1/page";
 
 
 export default function Home() {

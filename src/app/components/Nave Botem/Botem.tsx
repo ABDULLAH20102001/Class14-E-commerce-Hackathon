@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaFacebook } from "react-icons/fa"; //icon facebook
-import { FaInstagramSquare } from "react-icons/fa"; //icon instaga
+// import { FaInstagramSquare } from "react-icons/fa"; //icon instaga
 import { AiFillTwitterCircle } from "react-icons/ai"; //icon twitter
 
 const Botem = () => {
